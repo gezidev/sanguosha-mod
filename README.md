@@ -60,5 +60,5 @@ Jade（`snownee.jade`）为可选前置：未安装时兼容插件自动跳过�
 
 ## 开源协议
 
-本项目采用 [MIT License](LICENSE) 开源协议。
+本项目基于 Minecraft Forge 开发，采用 [LGPL 2.1（Minecraft Forge 许可证）](LICENSE) 开源协议。
 
