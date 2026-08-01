@@ -1,24 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.Direction
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.network.chat.Component
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.InteractionResult
- *  net.minecraft.world.InteractionResultHolder
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.Item$Properties
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.item.context.UseOnContext
- *  net.minecraft.world.level.Level
- *  net.minecraft.world.phys.Vec3
- *  net.minecraftforge.client.extensions.common.IClientItemExtensions
- */
 package cn.solo.sanguosha.item;
 
 import cn.solo.sanguosha.client.CardItemClientExtension;

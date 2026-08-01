@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- */
 package cn.solo.sanguosha.client;
 
 import java.util.Set;

@@ -1,13 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.inventory.AbstractContainerMenu
- *  net.minecraftforge.network.NetworkEvent$Context
- */
 package cn.solo.sanguosha.network;
 
 import cn.solo.sanguosha.game.GameRoomManager;

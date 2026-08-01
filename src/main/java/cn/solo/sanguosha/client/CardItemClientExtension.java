@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.blaze3d.vertex.PoseStack
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer
- *  net.minecraft.client.renderer.MultiBufferSource
- *  net.minecraft.resources.ResourceLocation
- *  net.minecraft.world.item.ItemDisplayContext
- *  net.minecraft.world.item.ItemStack
- *  net.minecraftforge.client.extensions.common.IClientItemExtensions
- *  net.minecraftforge.registries.ForgeRegistries
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.GeneralCardClientExtension;

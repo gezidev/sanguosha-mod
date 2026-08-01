@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.blaze3d.vertex.PoseStack
- *  com.mojang.blaze3d.vertex.VertexConsumer
- *  com.mojang.math.Axis
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.renderer.BlockEntityWithoutLevelRenderer
- *  net.minecraft.client.renderer.MultiBufferSource
- *  net.minecraft.client.renderer.RenderType
- *  net.minecraft.resources.ResourceLocation
- *  net.minecraft.world.item.ItemDisplayContext
- *  net.minecraft.world.item.ItemStack
- *  net.minecraftforge.client.extensions.common.IClientItemExtensions
- *  org.apache.logging.log4j.LogManager
- *  org.apache.logging.log4j.Logger
- *  org.joml.Matrix3f
- *  org.joml.Matrix4f
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.ClientGeneralCatalog;

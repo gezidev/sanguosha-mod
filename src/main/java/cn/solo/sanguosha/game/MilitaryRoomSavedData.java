@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.nbt.ListTag
- *  net.minecraft.nbt.LongTag
- *  net.minecraft.nbt.StringTag
- *  net.minecraft.nbt.Tag
- *  net.minecraft.server.level.ServerLevel
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.saveddata.SavedData
- */
 package cn.solo.sanguosha.game;
 
 import cn.solo.sanguosha.game.MilitaryTableLayout;

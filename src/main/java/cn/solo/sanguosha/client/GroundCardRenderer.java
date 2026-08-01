@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.blaze3d.vertex.PoseStack
- *  com.mojang.math.Axis
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.renderer.MultiBufferSource
- *  net.minecraft.client.renderer.entity.EntityRenderer
- *  net.minecraft.client.renderer.entity.EntityRendererProvider$Context
- *  net.minecraft.client.renderer.entity.ItemRenderer
- *  net.minecraft.client.renderer.texture.OverlayTexture
- *  net.minecraft.client.resources.model.BakedModel
- *  net.minecraft.resources.ResourceLocation
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.ItemDisplayContext
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.ItemLike
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.CardItemBakedModel;

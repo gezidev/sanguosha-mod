@@ -1,15 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.world.entity.EntityType
- *  net.minecraft.world.entity.EntityType$Builder
- *  net.minecraft.world.entity.MobCategory
- *  net.minecraftforge.registries.DeferredRegister
- *  net.minecraftforge.registries.ForgeRegistries
- *  net.minecraftforge.registries.IForgeRegistry
- *  net.minecraftforge.registries.RegistryObject
- */
 package cn.solo.sanguosha.registry;
 
 import cn.solo.sanguosha.entity.GroundCardEntity;

@@ -1,20 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.core.Direction
- *  net.minecraft.core.Direction$Plane
- *  net.minecraft.server.level.ServerLevel
- *  net.minecraft.world.level.Level
- *  net.minecraft.world.level.LevelAccessor
- *  net.minecraft.world.level.block.Block
- *  net.minecraft.world.level.block.state.BlockState
- *  net.minecraft.world.level.block.state.properties.BlockStateProperties
- *  net.minecraft.world.level.block.state.properties.BooleanProperty
- *  net.minecraft.world.level.block.state.properties.DirectionProperty
- *  net.minecraft.world.level.block.state.properties.Property
- */
 package cn.solo.sanguosha.block;
 
 import cn.solo.sanguosha.registry.ModBlocks;

@@ -1,19 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.level.ClipContext
- *  net.minecraft.world.level.ClipContext$Block
- *  net.minecraft.world.level.ClipContext$Fluid
- *  net.minecraft.world.phys.AABB
- *  net.minecraft.world.phys.BlockHitResult
- *  net.minecraft.world.phys.EntityHitResult
- *  net.minecraft.world.phys.HitResult$Type
- *  net.minecraft.world.phys.Vec3
- */
 package cn.solo.sanguosha.server;
 
 import cn.solo.sanguosha.item.HandContainerItem;

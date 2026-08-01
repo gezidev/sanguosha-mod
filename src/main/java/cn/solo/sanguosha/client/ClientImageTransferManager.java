@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.ClientGeneralCatalog;

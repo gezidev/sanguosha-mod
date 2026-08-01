@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.brigadier.CommandDispatcher
- *  com.mojang.brigadier.arguments.ArgumentType
- *  com.mojang.brigadier.arguments.IntegerArgumentType
- *  com.mojang.brigadier.arguments.StringArgumentType
- *  com.mojang.brigadier.builder.LiteralArgumentBuilder
- *  com.mojang.brigadier.builder.RequiredArgumentBuilder
- *  com.mojang.brigadier.context.CommandContext
- *  com.mojang.brigadier.suggestion.SuggestionsBuilder
- *  net.minecraft.commands.CommandSourceStack
- *  net.minecraft.commands.Commands
- *  net.minecraft.commands.SharedSuggestionProvider
- *  net.minecraft.commands.arguments.EntityArgument
- *  net.minecraft.network.chat.Component
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.item.ItemStack
- */
 package cn.solo.sanguosha.command;
 
 import cn.solo.sanguosha.config.GeneralManager;

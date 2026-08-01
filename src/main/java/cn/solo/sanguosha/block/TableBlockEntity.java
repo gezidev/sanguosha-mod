@@ -1,34 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.core.Direction
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.nbt.ListTag
- *  net.minecraft.nbt.Tag
- *  net.minecraft.network.Connection
- *  net.minecraft.network.chat.Component
- *  net.minecraft.network.protocol.Packet
- *  net.minecraft.network.protocol.game.ClientGamePacketListener
- *  net.minecraft.network.protocol.game.ClientboundBlockEntityDataPacket
- *  net.minecraft.world.MenuProvider
- *  net.minecraft.world.entity.player.Inventory
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.inventory.AbstractContainerMenu
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.block.entity.BlockEntity
- *  net.minecraft.world.level.block.entity.BlockEntityType
- *  net.minecraft.world.level.block.state.BlockState
- *  net.minecraftforge.common.capabilities.Capability
- *  net.minecraftforge.common.capabilities.ForgeCapabilities
- *  net.minecraftforge.common.util.LazyOptional
- *  net.minecraftforge.items.ItemStackHandler
- *  net.minecraftforge.registries.ForgeRegistries
- *  org.jetbrains.annotations.NotNull
- *  org.jetbrains.annotations.Nullable
- */
 package cn.solo.sanguosha.block;
 
 import cn.solo.sanguosha.item.GeneralCardItem;

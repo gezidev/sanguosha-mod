@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.client.Minecraft
- *  net.minecraftforge.api.distmarker.Dist
- *  net.minecraftforge.fml.loading.FMLEnvironment
- *  org.lwjgl.PointerBuffer
- *  org.lwjgl.system.MemoryStack
- *  org.lwjgl.util.tinyfd.TinyFileDialogs
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.image.ImageDataValidator;

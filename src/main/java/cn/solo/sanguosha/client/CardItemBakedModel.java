@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.client.renderer.block.model.ItemOverrides
- *  net.minecraft.client.resources.model.BakedModel
- *  net.minecraftforge.client.model.BakedModelWrapper
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.GeneralCardItemOverrides;

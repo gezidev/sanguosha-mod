@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.core.Direction
- *  net.minecraft.core.Direction$Plane
- *  net.minecraft.server.level.ServerLevel
- */
 package cn.solo.sanguosha.game;
 
 import java.util.ArrayDeque;

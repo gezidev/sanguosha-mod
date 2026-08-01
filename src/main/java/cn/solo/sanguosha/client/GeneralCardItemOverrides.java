@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.client.multiplayer.ClientLevel
- *  net.minecraft.client.renderer.block.model.ItemOverrides
- *  net.minecraft.client.resources.model.BakedModel
- *  net.minecraft.world.entity.LivingEntity
- *  net.minecraft.world.item.ItemStack
- *  org.jetbrains.annotations.Nullable
- */
 package cn.solo.sanguosha.client;
 
 import net.minecraft.client.multiplayer.ClientLevel;

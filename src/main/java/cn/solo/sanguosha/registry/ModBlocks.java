@@ -1,16 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.registries.Registries
- *  net.minecraft.resources.ResourceKey
- *  net.minecraft.world.level.block.Block
- *  net.minecraft.world.level.block.SoundType
- *  net.minecraft.world.level.block.state.BlockBehaviour$Properties
- *  net.minecraft.world.level.material.MapColor
- *  net.minecraftforge.registries.DeferredRegister
- *  net.minecraftforge.registries.RegistryObject
- */
 package cn.solo.sanguosha.registry;
 
 import cn.solo.sanguosha.block.GameTable2Block;

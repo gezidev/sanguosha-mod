@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraftforge.api.distmarker.Dist
- *  net.minecraftforge.fml.DistExecutor
- *  net.minecraftforge.network.NetworkEvent$Context
- */
 package cn.solo.sanguosha.network;
 
 import cn.solo.sanguosha.client.HandContainerCountClient;

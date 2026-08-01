@@ -1,28 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.blaze3d.platform.InputConstants
- *  com.mojang.blaze3d.vertex.PoseStack
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.gui.GuiGraphics
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.block.Block
- *  net.minecraft.world.phys.BlockHitResult
- *  net.minecraft.world.phys.EntityHitResult
- *  net.minecraft.world.phys.HitResult
- *  net.minecraftforge.api.distmarker.Dist
- *  net.minecraftforge.client.event.InputEvent$MouseButton$Pre
- *  net.minecraftforge.client.event.InputEvent$MouseScrollingEvent
- *  net.minecraftforge.client.event.RenderGuiOverlayEvent$Post
- *  net.minecraftforge.eventbus.api.SubscribeEvent
- *  net.minecraftforge.fml.common.Mod$EventBusSubscriber
- *  net.minecraftforge.fml.common.Mod$EventBusSubscriber$Bus
- *  org.joml.AxisAngle4f
- *  org.joml.Quaternionf
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.entity.GroundCardEntity;

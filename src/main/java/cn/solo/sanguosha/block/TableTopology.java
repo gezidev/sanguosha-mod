@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.Direction
- */
 package cn.solo.sanguosha.block;
 
 import cn.solo.sanguosha.block.TableShape;

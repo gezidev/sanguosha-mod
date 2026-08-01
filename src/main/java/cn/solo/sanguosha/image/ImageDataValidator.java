@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- */
 package cn.solo.sanguosha.image;
 
 import java.awt.AlphaComposite;

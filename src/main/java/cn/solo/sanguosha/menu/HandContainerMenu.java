@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraft.world.Container
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.entity.player.Inventory
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.inventory.AbstractContainerMenu
- *  net.minecraft.world.inventory.MenuType
- *  net.minecraft.world.inventory.Slot
- *  net.minecraft.world.item.ItemStack
- */
 package cn.solo.sanguosha.menu;
 
 import cn.solo.sanguosha.item.HandContainerItem;

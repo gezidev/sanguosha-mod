@@ -1,20 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.ClipContext
- *  net.minecraft.world.level.ClipContext$Block
- *  net.minecraft.world.level.ClipContext$Fluid
- *  net.minecraft.world.phys.BlockHitResult
- *  net.minecraft.world.phys.HitResult$Type
- *  net.minecraft.world.phys.Vec3
- *  net.minecraftforge.network.NetworkEvent$Context
- */
 package cn.solo.sanguosha.network;
 
 import cn.solo.sanguosha.entity.GroundCardEntity;

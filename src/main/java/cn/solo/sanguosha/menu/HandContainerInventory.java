@@ -1,13 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.NonNullList
- *  net.minecraft.world.Container
- *  net.minecraft.world.ContainerHelper
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.ItemStack
- */
 package cn.solo.sanguosha.menu;
 
 import cn.solo.sanguosha.item.HandContainerItem;

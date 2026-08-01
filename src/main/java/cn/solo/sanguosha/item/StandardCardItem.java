@@ -1,16 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.ChatFormatting
- *  net.minecraft.network.chat.Component
- *  net.minecraft.world.item.Item$Properties
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.item.TooltipFlag
- *  net.minecraft.world.level.Level
- *  net.minecraftforge.client.extensions.common.IClientItemExtensions
- *  org.jetbrains.annotations.Nullable
- */
 package cn.solo.sanguosha.item;
 
 import cn.solo.sanguosha.client.CardItemClientExtension;

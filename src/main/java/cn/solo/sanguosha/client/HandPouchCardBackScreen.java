@@ -1,12 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.client.gui.GuiGraphics
- *  net.minecraft.client.gui.screens.Screen
- *  net.minecraft.network.chat.Component
- *  net.minecraft.resources.ResourceLocation
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.network.ModNetwork;

@@ -1,17 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.network.chat.Component
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.entity.projectile.ProjectileUtil
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.phys.AABB
- *  net.minecraft.world.phys.EntityHitResult
- *  net.minecraft.world.phys.Vec3
- */
 package cn.solo.sanguosha.game;
 
 import cn.solo.sanguosha.entity.GroundCardEntity;

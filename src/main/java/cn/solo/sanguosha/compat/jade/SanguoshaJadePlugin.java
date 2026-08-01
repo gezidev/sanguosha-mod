@@ -1,30 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.ChatFormatting
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.network.chat.Component
- *  net.minecraft.resources.ResourceLocation
- *  net.minecraft.server.level.ServerLevel
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.ItemStack
- *  net.minecraftforge.fml.ModList
- *  snownee.jade.api.Accessor
- *  snownee.jade.api.EntityAccessor
- *  snownee.jade.api.ITooltip
- *  snownee.jade.api.IWailaClientRegistration
- *  snownee.jade.api.IWailaCommonRegistration
- *  snownee.jade.api.IWailaPlugin
- *  snownee.jade.api.WailaPlugin
- *  snownee.jade.api.view.ClientViewGroup
- *  snownee.jade.api.view.IClientExtensionProvider
- *  snownee.jade.api.view.IServerExtensionProvider
- *  snownee.jade.api.view.ItemView
- *  snownee.jade.api.view.ViewGroup
- */
 package cn.solo.sanguosha.compat.jade;
 
 import cn.solo.sanguosha.block.GameTable2BlockEntity;

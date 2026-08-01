@@ -1,29 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.core.Direction
- *  net.minecraft.server.level.ServerLevel
- *  net.minecraft.util.RandomSource
- *  net.minecraft.world.item.context.BlockPlaceContext
- *  net.minecraft.world.level.BlockGetter
- *  net.minecraft.world.level.Level
- *  net.minecraft.world.level.LevelAccessor
- *  net.minecraft.world.level.block.BaseEntityBlock
- *  net.minecraft.world.level.block.Block
- *  net.minecraft.world.level.block.RenderShape
- *  net.minecraft.world.level.block.entity.BlockEntity
- *  net.minecraft.world.level.block.state.BlockBehaviour$Properties
- *  net.minecraft.world.level.block.state.BlockState
- *  net.minecraft.world.level.block.state.StateDefinition$Builder
- *  net.minecraft.world.level.block.state.properties.BooleanProperty
- *  net.minecraft.world.level.block.state.properties.DirectionProperty
- *  net.minecraft.world.level.block.state.properties.Property
- *  net.minecraft.world.phys.shapes.CollisionContext
- *  net.minecraft.world.phys.shapes.Shapes
- *  net.minecraft.world.phys.shapes.VoxelShape
- */
 package cn.solo.sanguosha.block;
 
 import cn.solo.sanguosha.block.GameTable2BlockEntity;

@@ -1,24 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.Container
- *  net.minecraft.world.entity.player.Inventory
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.inventory.AbstractContainerMenu
- *  net.minecraft.world.inventory.ContainerLevelAccess
- *  net.minecraft.world.inventory.MenuType
- *  net.minecraft.world.inventory.Slot
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.Level
- *  net.minecraft.world.level.block.entity.BlockEntity
- *  net.minecraftforge.items.IItemHandler
- *  net.minecraftforge.items.ItemStackHandler
- *  net.minecraftforge.items.SlotItemHandler
- */
 package cn.solo.sanguosha.menu;
 
 import cn.solo.sanguosha.block.TableBlockEntity;

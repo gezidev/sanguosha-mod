@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.ChatFormatting
- *  net.minecraft.core.BlockPos
- *  net.minecraft.network.chat.Component
- *  net.minecraft.server.level.ServerLevel
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.Containers
- *  net.minecraft.world.MenuProvider
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.inventory.AbstractContainerMenu
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.Level
- *  net.minecraft.world.level.block.Block
- *  net.minecraft.world.level.block.entity.BlockEntity
- *  net.minecraftforge.network.NetworkHooks
- *  net.minecraftforge.registries.ForgeRegistries
- */
 package cn.solo.sanguosha.game;
 
 import cn.solo.sanguosha.block.TableBlockEntity;

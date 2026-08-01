@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.registries.Registries
- *  net.minecraft.resources.ResourceKey
- *  net.minecraft.world.inventory.MenuType
- *  net.minecraftforge.common.extensions.IForgeMenuType
- *  net.minecraftforge.registries.DeferredRegister
- *  net.minecraftforge.registries.RegistryObject
- */
 package cn.solo.sanguosha.registry;
 
 import cn.solo.sanguosha.menu.GameTable2Menu;

@@ -1,23 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.BlockPos
- *  net.minecraft.network.FriendlyByteBuf
- *  net.minecraft.resources.ResourceLocation
- *  net.minecraft.server.MinecraftServer
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.ItemStack
- *  net.minecraftforge.api.distmarker.Dist
- *  net.minecraftforge.fml.DistExecutor
- *  net.minecraftforge.network.NetworkDirection
- *  net.minecraftforge.network.NetworkEvent$Context
- *  net.minecraftforge.network.NetworkRegistry
- *  net.minecraftforge.network.simple.SimpleChannel
- *  net.minecraftforge.server.ServerLifecycleHooks
- */
 package cn.solo.sanguosha.network;
 
 import cn.solo.sanguosha.client.ClientGeneralCatalog;

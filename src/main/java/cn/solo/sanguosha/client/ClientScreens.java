@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.gui.screens.Screen
- *  net.minecraft.core.BlockPos
- *  net.minecraft.network.chat.Component
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.item.ItemStack
- */
 package cn.solo.sanguosha.client;
 
 import cn.solo.sanguosha.client.DeckDrawOptionsScreen;

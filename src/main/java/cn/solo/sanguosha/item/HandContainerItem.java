@@ -1,26 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.ChatFormatting
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.nbt.ListTag
- *  net.minecraft.nbt.Tag
- *  net.minecraft.network.chat.Component
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.InteractionResultHolder
- *  net.minecraft.world.MenuProvider
- *  net.minecraft.world.SimpleMenuProvider
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.Item$Properties
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.item.TooltipFlag
- *  net.minecraft.world.level.Level
- *  net.minecraftforge.network.NetworkHooks
- *  org.jetbrains.annotations.Nullable
- */
 package cn.solo.sanguosha.item;
 
 import cn.solo.sanguosha.item.PlaceableCardItem;

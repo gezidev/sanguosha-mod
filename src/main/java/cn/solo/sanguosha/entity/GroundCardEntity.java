@@ -1,28 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.nbt.CompoundTag
- *  net.minecraft.nbt.ListTag
- *  net.minecraft.nbt.Tag
- *  net.minecraft.network.chat.Component
- *  net.minecraft.network.protocol.Packet
- *  net.minecraft.network.protocol.game.ClientGamePacketListener
- *  net.minecraft.network.syncher.EntityDataAccessor
- *  net.minecraft.network.syncher.EntityDataSerializer
- *  net.minecraft.network.syncher.EntityDataSerializers
- *  net.minecraft.network.syncher.SynchedEntityData
- *  net.minecraft.world.InteractionHand
- *  net.minecraft.world.InteractionResult
- *  net.minecraft.world.damagesource.DamageSource
- *  net.minecraft.world.entity.Entity
- *  net.minecraft.world.entity.EntityType
- *  net.minecraft.world.entity.player.Player
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.ItemLike
- *  net.minecraft.world.level.Level
- *  net.minecraftforge.network.NetworkHooks
- */
 package cn.solo.sanguosha.entity;
 
 import cn.solo.sanguosha.config.GeneralAssetManager;

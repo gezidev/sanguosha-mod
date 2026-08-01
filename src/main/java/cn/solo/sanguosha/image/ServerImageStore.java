@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.server.MinecraftServer
- *  net.minecraft.server.level.ServerPlayer
- *  net.minecraft.world.level.storage.LevelResource
- */
 package cn.solo.sanguosha.image;
 
 import cn.solo.sanguosha.image.ImageDataValidator;

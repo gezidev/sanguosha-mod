@@ -1,14 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.google.gson.Gson
- *  com.google.gson.GsonBuilder
- *  com.google.gson.JsonParseException
- *  net.minecraftforge.fml.loading.FMLPaths
- *  org.apache.logging.log4j.LogManager
- *  org.apache.logging.log4j.Logger
- */
 package cn.solo.sanguosha.config;
 
 import cn.solo.sanguosha.config.GeneralDefinition;

@@ -1,20 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  net.minecraft.core.registries.Registries
- *  net.minecraft.network.chat.Component
- *  net.minecraft.resources.ResourceKey
- *  net.minecraft.world.item.BlockItem
- *  net.minecraft.world.item.CreativeModeTab
- *  net.minecraft.world.item.Item
- *  net.minecraft.world.item.Item$Properties
- *  net.minecraft.world.item.ItemStack
- *  net.minecraft.world.level.ItemLike
- *  net.minecraft.world.level.block.Block
- *  net.minecraftforge.registries.DeferredRegister
- *  net.minecraftforge.registries.RegistryObject
- */
 package cn.solo.sanguosha.registry;
 
 import cn.solo.sanguosha.chessboard.ModChessboards;

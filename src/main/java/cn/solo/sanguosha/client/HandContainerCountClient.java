@@ -1,26 +1,3 @@
-/*
- * Decompiled with CFR 0.152.
- * 
- * Could not load the following classes:
- *  com.mojang.blaze3d.systems.RenderSystem
- *  com.mojang.blaze3d.vertex.PoseStack
- *  net.minecraft.client.Minecraft
- *  net.minecraft.client.gui.Font
- *  net.minecraft.client.gui.Font$DisplayMode
- *  net.minecraft.client.player.LocalPlayer
- *  net.minecraft.network.chat.Component
- *  net.minecraft.network.chat.FormattedText
- *  net.minecraft.network.chat.MutableComponent
- *  net.minecraft.world.entity.LivingEntity
- *  net.minecraft.world.entity.player.Player
- *  net.minecraftforge.api.distmarker.Dist
- *  net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
- *  net.minecraftforge.client.event.RenderLivingEvent$Post
- *  net.minecraftforge.event.level.LevelEvent$Unload
- *  net.minecraftforge.eventbus.api.SubscribeEvent
- *  net.minecraftforge.fml.common.Mod$EventBusSubscriber
- *  net.minecraftforge.fml.common.Mod$EventBusSubscriber$Bus
- */
 package cn.solo.sanguosha.client;
 
 import com.mojang.blaze3d.systems.RenderSystem;
