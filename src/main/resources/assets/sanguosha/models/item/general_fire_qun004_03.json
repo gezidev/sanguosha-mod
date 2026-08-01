@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/fire_qun004_03",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

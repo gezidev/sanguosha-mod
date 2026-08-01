@@ -1,0 +1,16 @@
+[
+  {"id":"wei_cao_cao","name":"曹操","kingdom":"魏"}, {"id":"wei_si_ma_yi","name":"司马懿","kingdom":"魏"},
+  {"id":"wei_xia_hou_dun","name":"夏侯惇","kingdom":"魏"}, {"id":"wei_zhang_liao","name":"张辽","kingdom":"魏"},
+  {"id":"wei_xu_chu","name":"许褚","kingdom":"魏"}, {"id":"wei_guo_jia","name":"郭嘉","kingdom":"魏"},
+  {"id":"wei_zhen_ji","name":"甄姬","kingdom":"魏"}, {"id":"shu_liu_bei","name":"刘备","kingdom":"蜀"},
+  {"id":"shu_guan_yu","name":"关羽","kingdom":"蜀"}, {"id":"shu_zhang_fei","name":"张飞","kingdom":"蜀"},
+  {"id":"shu_zhu_ge_liang","name":"诸葛亮","kingdom":"蜀"}, {"id":"shu_zhao_yun","name":"赵云","kingdom":"蜀"},
+  {"id":"shu_ma_chao","name":"马超","kingdom":"蜀"}, {"id":"shu_huang_yue_ying","name":"黄月英","kingdom":"蜀"},
+  {"id":"wu_sun_quan","name":"孙权","kingdom":"吴"}, {"id":"wu_gan_ning","name":"甘宁","kingdom":"吴"},
+  {"id":"wu_lv_meng","name":"吕蒙","kingdom":"吴"}, {"id":"wu_huang_gai","name":"黄盖","kingdom":"吴"},
+  {"id":"wu_zhou_yu","name":"周瑜","kingdom":"吴"}, {"id":"wu_da_qiao","name":"大乔","kingdom":"吴"},
+  {"id":"wu_lu_xun","name":"陆逊","kingdom":"吴"}, {"id":"wu_sun_shang_xiang","name":"孙尚香","kingdom":"吴"},
+  {"id":"qun_hua_tuo","name":"华佗","kingdom":"群"}, {"id":"qun_lv_bu","name":"吕布","kingdom":"群"},
+  {"id":"qun_diao_chan","name":"貂蝉","kingdom":"群"}, {"id":"qun_hua_xiong","name":"华雄","kingdom":"群"},
+  {"id":"qun_yuan_shu","name":"袁术","kingdom":"群"}
+]

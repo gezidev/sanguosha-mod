@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "east_connected=false,facing=north,west_connected=false": {"model": "sanguosha:block/game_table2"},
+    "east_connected=false,facing=north,west_connected=true": {"model": "sanguosha:block/game_table2"},
+    "east_connected=true,facing=north,west_connected=false": {"model": "sanguosha:block/game_table2"},
+    "east_connected=true,facing=north,west_connected=true": {"model": "sanguosha:block/game_table2_center"},
+
+    "east_connected=false,facing=east,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 90},
+    "east_connected=false,facing=east,west_connected=true": {"model": "sanguosha:block/game_table2", "y": 90},
+    "east_connected=true,facing=east,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 90},
+    "east_connected=true,facing=east,west_connected=true": {"model": "sanguosha:block/game_table2_center", "y": 90},
+
+    "east_connected=false,facing=south,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 180},
+    "east_connected=false,facing=south,west_connected=true": {"model": "sanguosha:block/game_table2", "y": 180},
+    "east_connected=true,facing=south,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 180},
+    "east_connected=true,facing=south,west_connected=true": {"model": "sanguosha:block/game_table2_center", "y": 180},
+
+    "east_connected=false,facing=west,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 270},
+    "east_connected=false,facing=west,west_connected=true": {"model": "sanguosha:block/game_table2", "y": 270},
+    "east_connected=true,facing=west,west_connected=false": {"model": "sanguosha:block/game_table2", "y": 270},
+    "east_connected=true,facing=west,west_connected=true": {"model": "sanguosha:block/game_table2_center", "y": 270}
+  }
+}

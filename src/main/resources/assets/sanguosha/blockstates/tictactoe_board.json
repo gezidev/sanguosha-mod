@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "sanguosha:block/tictactoe_board", "y": 0 },
+    "facing=west":  { "model": "sanguosha:block/tictactoe_board", "y": 90 },
+    "facing=north": { "model": "sanguosha:block/tictactoe_board", "y": 180 },
+    "facing=east":  { "model": "sanguosha:block/tictactoe_board", "y": 270 }
+  }
+}

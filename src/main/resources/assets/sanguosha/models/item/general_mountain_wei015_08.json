@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/mountain_wei015_08",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

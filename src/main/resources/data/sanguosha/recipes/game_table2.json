@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["SSS", " P ", " P "],
+  "key": {
+    "S": {"item": "minecraft:stripped_oak_log"},
+    "P": {"item": "minecraft:oak_planks"}
+  },
+  "result": {"item": "sanguosha:game_table2", "count": 2},
+  "show_notification": true
+}

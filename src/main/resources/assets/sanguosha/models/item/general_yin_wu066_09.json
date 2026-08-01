@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/yin_wu066_09",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

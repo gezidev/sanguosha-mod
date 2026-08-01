@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/wei_xia_hou_dun",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

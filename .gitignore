@@ -1,0 +1,22 @@
+# Build outputs (contains 218MB jars + AT-applied vanilla client jar — never commit)
+build/
+logs/
+tools/classes/
+
+# Decompiler artifact (contains local paths)
+src/main/java/summary.txt
+
+# Local game-launch script (machine-specific paths)
+run_game_cb.sh
+
+# Machine-generated classpaths (absolute local paths)
+classpath.txt
+classpath_runtime.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+Desktop.ini

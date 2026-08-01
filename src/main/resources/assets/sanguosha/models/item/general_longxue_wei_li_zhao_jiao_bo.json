@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/longxue_wei_li_zhao_jiao_bo",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

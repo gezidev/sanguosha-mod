@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/lord",
+    "back": "sanguosha:item/identity_card_back"
+  }
+}

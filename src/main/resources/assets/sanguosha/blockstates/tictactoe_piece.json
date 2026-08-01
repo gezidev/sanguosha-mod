@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sanguosha:block/tictactoe_pieces" }
+  }
+}

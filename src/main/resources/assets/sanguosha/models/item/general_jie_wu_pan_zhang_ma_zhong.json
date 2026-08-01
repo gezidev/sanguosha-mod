@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/jie_wu_pan_zhang_ma_zhong",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

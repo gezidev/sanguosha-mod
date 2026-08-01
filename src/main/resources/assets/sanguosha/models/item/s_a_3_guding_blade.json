@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/s_a_3_guding_blade",
+    "back": "sanguosha:item/card_back"
+  }
+}

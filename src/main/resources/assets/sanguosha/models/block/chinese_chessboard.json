@@ -1,0 +1,6 @@
+{
+  "parent": "sanguosha:block/board",
+  "textures": {
+    "0": "sanguosha:block/chinese_chessboard"
+  }
+}

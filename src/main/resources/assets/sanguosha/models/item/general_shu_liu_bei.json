@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/shu_liu_bei",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

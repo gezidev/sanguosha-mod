@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/jie_wu_zhu_ran",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

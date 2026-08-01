@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/c_2_ex_renwang_shield",
+    "back": "sanguosha:item/card_back"
+  }
+}

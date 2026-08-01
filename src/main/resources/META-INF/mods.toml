@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="sanguosha"
+version="1.0.0"
+displayName="三国杀卡牌"
+authors="SOLO"
+description='''Forge 1.20.1 三国杀身份牌与可配置武将牌。'''
+[[dependencies.sanguosha]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sanguosha]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.sanguosha]]
+modId="jade"
+mandatory=false
+versionRange="[11.0.0,12.0.0)"
+ordering="AFTER"
+side="BOTH"

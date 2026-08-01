@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/forest_le006_02",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

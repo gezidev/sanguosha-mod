@@ -1,0 +1,10 @@
+{
+  "id": "guanyu",
+  "name": "关羽",
+  "kingdom": "蜀",
+  "health": 4,
+  "image": "guanyu.png",
+  "skills": [
+    {"name": "武圣", "description": "你可以将一张红色牌当【杀】使用或打出。"}
+  ]
+}

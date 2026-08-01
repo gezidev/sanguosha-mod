@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/bing_wei_dong_zhao",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

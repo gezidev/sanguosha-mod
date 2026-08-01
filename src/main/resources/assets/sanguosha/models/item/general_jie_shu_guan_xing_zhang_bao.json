@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/jie_shu_guan_xing_zhang_bao",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/s_q_2_spear",
+    "back": "sanguosha:item/card_back"
+  }
+}

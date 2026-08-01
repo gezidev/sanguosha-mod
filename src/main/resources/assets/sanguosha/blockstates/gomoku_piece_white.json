@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sanguosha:block/gomoku_pieces_white" }
+  }
+}

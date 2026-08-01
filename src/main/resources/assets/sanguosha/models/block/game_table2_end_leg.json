@@ -1,0 +1,13 @@
+{
+  "textures": {"leg": "sanguosha:block/stripped_oak_log", "particle": "sanguosha:block/game_table2_top"},
+  "elements": [{
+    "from": [3, 0, 6], "to": [7, 14, 10],
+    "faces": {
+      "north": {"uv": [12, 0, 16, 14], "texture": "#leg"},
+      "east": {"uv": [12, 0, 16, 14], "texture": "#leg"},
+      "south": {"uv": [12, 0, 16, 14], "texture": "#leg"},
+      "west": {"uv": [12, 0, 16, 14], "texture": "#leg"},
+      "down": {"uv": [0, 0, 4, 4], "texture": "#leg", "cullface": "down"}
+    }
+  }]
+}

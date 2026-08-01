@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/general/qun_hua_tuo",
+    "back": "sanguosha:item/general_card_back"
+  }
+}

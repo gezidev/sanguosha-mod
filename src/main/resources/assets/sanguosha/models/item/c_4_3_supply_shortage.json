@@ -1,0 +1,7 @@
+{
+  "parent": "sanguosha:item/card_base",
+  "textures": {
+    "front": "sanguosha:item/c_4_3_supply_shortage",
+    "back": "sanguosha:item/card_back"
+  }
+}
